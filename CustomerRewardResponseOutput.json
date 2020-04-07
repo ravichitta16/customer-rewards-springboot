@@ -1,0 +1,155 @@
+[
+    {
+        "customers": [
+            {
+                "customerName": "James",
+                "transactions": [
+                    {
+                        "dollersSpent": 120
+                    },
+                    {
+                        "dollersSpent": 50
+                    },
+                    {
+                        "dollersSpent": 230
+                    }
+                ],
+                "customerTotalRewards": 300
+            },
+            {
+                "customerName": "Mike",
+                "transactions": [
+                    {
+                        "dollersSpent": 180
+                    },
+                    {
+                        "dollersSpent": 110
+                    },
+                    {
+                        "dollersSpent": 80
+                    }
+                ],
+                "customerTotalRewards": 210
+            },
+            {
+                "customerName": "Chris",
+                "transactions": [
+                    {
+                        "dollersSpent": 60
+                    },
+                    {
+                        "dollersSpent": 340
+                    },
+                    {
+                        "dollersSpent": 170
+                    }
+                ],
+                "customerTotalRewards": 630
+            }
+        ],
+        "totalMonthlyRewards": 1140,
+        "transactionsMonth": "January"
+    },
+    {
+        "customers": [
+            {
+                "customerName": "James",
+                "transactions": [
+                    {
+                        "dollersSpent": 105
+                    },
+                    {
+                        "dollersSpent": 130
+                    },
+                    {
+                        "dollersSpent": 60
+                    }
+                ],
+                "customerTotalRewards": 80
+            },
+            {
+                "customerName": "Mike",
+                "transactions": [
+                    {
+                        "dollersSpent": 150
+                    },
+                    {
+                        "dollersSpent": 80
+                    },
+                    {
+                        "dollersSpent": 210
+                    }
+                ],
+                "customerTotalRewards": 350
+            },
+            {
+                "customerName": "Chris",
+                "transactions": [
+                    {
+                        "dollersSpent": 85
+                    },
+                    {
+                        "dollersSpent": 240
+                    },
+                    {
+                        "dollersSpent": 155
+                    }
+                ],
+                "customerTotalRewards": 425
+            }
+        ],
+        "totalMonthlyRewards": 855,
+        "transactionsMonth": "February"
+    },
+    {
+        "customers": [
+            {
+                "customerName": "James",
+                "transactions": [
+                    {
+                        "dollersSpent": 80
+                    },
+                    {
+                        "dollersSpent": 150
+                    },
+                    {
+                        "dollersSpent": 170
+                    }
+                ],
+                "customerTotalRewards": 270
+            },
+            {
+                "customerName": "Mike",
+                "transactions": [
+                    {
+                        "dollersSpent": 130
+                    },
+                    {
+                        "dollersSpent": 110
+                    },
+                    {
+                        "dollersSpent": 220
+                    }
+                ],
+                "customerTotalRewards": 320
+            },
+            {
+                "customerName": "Chris",
+                "transactions": [
+                    {
+                        "dollersSpent": 160
+                    },
+                    {
+                        "dollersSpent": 40
+                    },
+                    {
+                        "dollersSpent": 190
+                    }
+                ],
+                "customerTotalRewards": 300
+            }
+        ],
+        "totalMonthlyRewards": 890,
+        "transactionsMonth": "March"
+    }
+]
